@@ -14,7 +14,7 @@
 4. Use ↺ to reset.  
 
 ## 📡 Live Demo  
-🔗 **[EclipseWeather Live](https://YOUR_USERNAME.github.io/EclipseWeather/)**  
+🔗 **[EclipseWeather Live](https://AbhishekSinghShekhawatSDE.github.io/EclipseWeather/)**  
 
 ## 🛠 Tech Stack  
 - HTML, CSS, JavaScript  
@@ -22,5 +22,5 @@
 
 ## 💻 Setup Locally  
 ```sh
-git clone https://github.com/YOUR_USERNAME/EclipseWeather.git
+git clone https://github.com/AbhishekSinghShekhawatSDE/EclipseWeather.git
 cd EclipseWeather
