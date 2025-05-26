@@ -1,6 +1,8 @@
 # 🌦 EclipseWeather  
 **A sleek, futuristic weather app with real-time updates and a minimalist UI.**  
 
+![EclipseWeather Preview](https://github.com/AbhishekSinghShekhawatSDE/EclipseWeather/blob/5441e69f98a47d712b42a6081e5dd7436b11a0ea/Output.jpg)
+
 ## 🚀 Features  
 ✅ Real-time Weather Updates 🌍  
 ✅ Dark Mode & Glassmorphic UI ✨  
